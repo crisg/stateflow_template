@@ -1,0 +1,9 @@
+*.slxc
+*.autosave
+*.original
+*.mex*
+.DS_Store
+slprj
+*.asv
+*.m~
+octave-workspace
