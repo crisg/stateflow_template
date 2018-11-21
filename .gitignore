@@ -8,5 +8,5 @@ slprj
 *.m~
 *.c~
 *.h~
-.r20*
+*.r20*
 octave-workspace
