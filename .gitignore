@@ -6,4 +6,7 @@
 slprj
 *.asv
 *.m~
+*.c~
+*.h~
+.r20*
 octave-workspace
