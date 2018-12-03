@@ -10,3 +10,5 @@ slprj
 *.h~
 *.r20*
 octave-workspace
+codegen
+*_grt_rtw
